@@ -1,65 +1,27 @@
 ---
 layout: page
-title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+title: Projects
+description: 
 nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+nav_order: 2
 ---
 
-<!-- pages/projects.md -->
+I take part in ideation and development parts of following projects for my education, professional job and as a personal interest. I kindly encourage you to <a href = "mailto: anil.kults@gmail.com"><b>reach out</b></a> and engage in further discussion.
+
 <div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="grid">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
 
-{% else %}
 
-<!-- Display projects without categories -->
+<a id="fact_aware"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Data Source Specific Chatbot</b></h3></a>
+<hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+A Chatbot that can answer questions only according to provided data source.
 
-  <!-- Generate cards for each project -->
+- **Techstack:** React, FastAPI, Python, OpenAI API (Function Calling)
 
-{% if page.horizontal %}
 
-  <div class="container">
-    <div class="row row-cols-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="grid">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
+<a id="3d"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Text-guided 3D Object Manipulation</b></h3></a>
+<hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
+
+A pretrained deepSDF 3D Shape generator model is used to generate 3D Shapes. CLIP model is used for text-guide mechanism. 2D Images of 3D objects are given to the CLIP to get feedback. See <a href="https://tumcps.github.io/CORA/" >GitHub</a> repository.
 </div>
