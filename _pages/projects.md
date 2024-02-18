@@ -22,9 +22,9 @@ A Chatbot that can answer questions only according to provided data source.
 
 <b>Techstack:</b> React, FastAPI, Python, OpenAI API (Function Calling)
 
-<div align="center"> 
+
 [![Preview](assets/img/project/chatbot.png)](https://anilkul98.github.io)
-</div>
+
 
 <a id="3d"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Text-guided 3D Object Manipulation</b></h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
