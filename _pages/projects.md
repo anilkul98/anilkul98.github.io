@@ -11,7 +11,7 @@ I take part in ideation and development parts of following projects for my educa
 
 <div class="projects">
 
-<a id=""><h2 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Generative AI Projects</b></h3></a>
+<a id=""><h2 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Generative AI Projects</b></h2></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
 
 
@@ -20,7 +20,7 @@ I take part in ideation and development parts of following projects for my educa
 
 A Chatbot that can answer questions only according to provided data source.
 
-- **Techstack:** React, FastAPI, Python, OpenAI API (Function Calling)
+<b>Techstack:</b> React, FastAPI, Python, OpenAI API (Function Calling)
 
 <img src="https://github.com/anilkul98/anilkul98.github.io/assets/project/chatbot.png?raw=true" alt="alt text">
 
@@ -32,7 +32,7 @@ A pretrained deepSDF 3D Shape generator model is used to generate 3D Shapes. CLI
 
 <img src="https://github.com/anilkul98/anilkul98.github.io/assets/project/3d.png?raw=true" alt="alt text">
 
-<a id=""><h2 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Computer Vision Projects</b></h3></a>
+<a id=""><h2 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Computer Vision Projects</b></h2></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;"> 
 
 <a id="3d"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Acute Otitis Media Diagnose</b></h3></a>
@@ -67,7 +67,7 @@ Tracking the multiple humans in videos. MOT16 dataset is used for implementation
 
 <img src="https://github.com/anilkul98/anilkul98.github.io/assets/project/mot.png?raw=true" alt="alt text">
 
-<a id=""><h2 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Time Series Prediction Projects</b></h3></a>
+<a id=""><h2 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Time Series Prediction Projects</b></h2></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
 
 <a id="3d"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Next Action Prediction</b></h3></a>
