@@ -22,7 +22,7 @@ A Chatbot that can answer questions only according to provided data source.
 
 <b>Techstack:</b> React, FastAPI, Python, OpenAI API (Function Calling)
 
-<img src="https://github.com/anilkul98/anilkul98.github.io/assets/project/chatbot.png?raw=true" alt="alt text">
+[![Preview](assets/project/chatbot.png)](https://anilkul98.github.io)
 
 <a id="3d"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Text-guided 3D Object Manipulation</b></h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
@@ -30,10 +30,11 @@ A Chatbot that can answer questions only according to provided data source.
 A pretrained deepSDF 3D Shape generator model is used to generate 3D Shapes. CLIP model is used for text-guide mechanism. 2D Images of 3D objects are given to the CLIP to get feedback. See <a href="https://github.com/anilkul98/3d-text-guided-manipulation" >GitHub</a> repository.
 </div>
 
-<img src="https://github.com/anilkul98/anilkul98.github.io/assets/project/3d.png?raw=true" alt="alt text">
+[![Preview](assets/project/3d.png)](https://anilkul98.github.io)
 
 <a id=""><h2 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Computer Vision Projects</b></h2></a>
-<hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;"> 
+<hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
+
 
 <a id="3d"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Acute Otitis Media Diagnose</b></h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
@@ -41,7 +42,8 @@ A pretrained deepSDF 3D Shape generator model is used to generate 3D Shapes. CLI
 The aim of the project is diagnosing the acute otitis media disease from the otoscope videos. It is a video classification task. MobileNet V2 is used as image feature extractor and LSTM with attention is used to extract information from temporal domain.
 </div>
 
-<img src="https://github.com/anilkul98/anilkul98.github.io/assets/project/acute_otisis_media.png?raw=true" alt="alt text">
+[![Preview](assets/project/acute_otisis_media.png)](https://anilkul98.github.io)
+
 
 <a id="3d"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Biodiversity Detection From Satellite Images</b></h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
@@ -49,7 +51,7 @@ The aim of the project is diagnosing the acute otitis media disease from the oto
 The main aim of the project is detecting high biodiversity areas of North of the Sweden by using the high biodiversity areas of the South of Sweden. The problem is a segmentation problem, so the output is pixelwise detection of high biodiversity areas. UNet is used as an image segmentation network.
 </div>
 
-<img src="https://github.com/anilkul98/anilkul98.github.io/assets/project/biodiversity.png?raw=true" alt="alt text">
+[![Preview](assets/project/biodiversity.png)](https://anilkul98.github.io)
 
 <a id="3d"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Tooth Decay Diagnose</b></h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
@@ -57,7 +59,7 @@ The main aim of the project is detecting high biodiversity areas of North of the
 The aim of the project is detecting the tooth decay areas on the bitewing X-rays. After detecting tooths from bitewing image, image classifier is applied on it to detect whether the teeth is decayed or not. Also, with using class activation maps, it is also possible to locate the decayed areas probabilities on the tooth.
 </div>
 
-<img src="https://github.com/anilkul98/anilkul98.github.io/assets/project/tooth_decay.png?raw=true" alt="alt text">
+[![Preview](assets/project/tooth_decay.png)](https://anilkul98.github.io)
 
 <a id="3d"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Multiple Object Tracking</b></h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
@@ -65,7 +67,7 @@ The aim of the project is detecting the tooth decay areas on the bitewing X-rays
 Tracking the multiple humans in videos. MOT16 dataset is used for implementation.
 </div>
 
-<img src="https://github.com/anilkul98/anilkul98.github.io/assets/project/mot.png?raw=true" alt="alt text">
+[![Preview](assets/project/mot.png)](https://anilkul98.github.io)
 
 <a id=""><h2 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Time Series Prediction Projects</b></h2></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
