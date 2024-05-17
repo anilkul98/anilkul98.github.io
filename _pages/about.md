@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a fast-learning computer engineer that focus on NLP and generative AI. I worked on lots of different domains within AI domain such as computer vision, time series analysis, etc. I created product pipelines that uses LLMs and other ML models . Additionally, I have a strong software engineering experience. I am a team player and have good communication skills.
+Dedicated AI/Software Engineer with a proven track record in developing cutting-edge solutions across multiple domains. Leveraging a strong background in machine learning, software engineering, and data engineering, I aspire to contribute my skills and expertise towards creating AI-driven applications that address complex challenges. Eager to innovate and deliver high-quality, scalable solutions. I am seeking opportunities to collaborate with dynamic teams in an environment that encourages creativity and continuous learning.

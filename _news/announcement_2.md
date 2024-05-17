@@ -7,5 +7,6 @@ related_posts: false
 
 Graduated M.Sc. Computer Science (Informatics) Degree. 
 - **Thesis:** Question Answering Framework using fact-aware Large Language Models (LLMs).
+- **GPA:** 1.9 (German System).
 - **Major Field:** Software Engineering.
 - **Minor Fields:** Computer Vision, Machine Learning
