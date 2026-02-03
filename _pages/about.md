@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Dedicated AI/Software Engineer with a proven track record in developing cutting-edge solutions across multiple domains. Leveraging a strong background in machine learning, software engineering, and data engineering, I aspire to contribute my skills and expertise towards creating AI-driven applications that address complex challenges. Eager to innovate and deliver high-quality, scalable solutions. I am seeking opportunities to collaborate with dynamic teams in an environment that encourages creativity and continuous learning.
+Senior AI/ML Engineer specializing in production-scale LLM applications and multi-agent systems. Proven track record deploying AI solutions serving 3000+ active users with measurable improvements in accuracy and efficiency. Expert in RAG architectures, agentic workflows, and end-to-end ML pipelines.

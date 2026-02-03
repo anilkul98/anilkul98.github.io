@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-10-01 07:59:00-0400
+date: 2025-05-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Started as Mid-level (T2) Software, Generative AI Engineer at SAP, Germany.
+Started as **Senior AI / ML Engineer** at **PWC**, Munich, Germany. Working on PWC Internal Chatbot Development serving 3000+ active users, focusing on AI module development including data ingestion pipeline improvements and agentic retrieval using ReAct framework.
